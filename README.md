@@ -1,5 +1,6 @@
 # Namit Misra –Data Analytics & Modelling Portfolio
 **Email:** [namit@wustl.edu](mailto:namit@wustl.edu) 
+
 Welcome! This repository highlights my projects in computational modeling, quantitative research, and data analytics.
 
 ---
@@ -8,7 +9,7 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
 - Replicated and extended Jablecki et al.’s volatility term-structure model with updated VIX futures data (2014–2025) to test robustness across market regimes.  
-- Developed and backtested three volatility trading strategies, including a short-only VRP strategy achieving **20.4% CAGR with 0.85 Sharpe ratio**.  
+- Developed and backtested three volatility trading strategies, including a short-only VRP strategy achieving 20.4% CAGR with 0.85 Sharpe ratio.  
 - Explored a forward volatility strategy for S&P 500 options, which underperformed due to misalignment of forward term-structure signals with realized short-term volatility.  
 - [PDF Report](https://github.com/Nemonyte04/vix-futures-term_structure-analysis/blob/main/Report-Analyzing_Historical_Volatility_Term_Structure_for_Forecasting_VIX_Futures.pdf)
 
