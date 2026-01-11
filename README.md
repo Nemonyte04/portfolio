@@ -8,7 +8,7 @@ Welcome! This repository highlights my projects in computational modeling, quant
 
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
-- Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original2004–2015 period), analyzing model robustness across modern market.
+- Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original 2004–2015 period), and evaluated its behavior in recent market conditions.
 - Developed and backtested three volatility trading strategies: VRP-based long/short VIX futures and a short-only VIX futures,and a novel forward volatility approach using term-structure slope signals for S&P 500 options; short-only VRP strategy achieved 20.4% CAGR with 0.85 Sharpe ratio.
 - [PDF Report](https://github.com/Nemonyte04/vix-futures-term_structure-analysis/blob/main/Report-Analyzing_Historical_Volatility_Term_Structure_for_Forecasting_VIX_Futures.pdf)
 
