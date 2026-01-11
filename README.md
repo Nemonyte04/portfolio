@@ -3,22 +3,6 @@
 Welcome! This repository highlights my projects in computational modeling, quantitative research, and data analytics.
 
 ---
-
-## Experience
-
-**Computational Modeling & Semiconductor Engineering Research Assistant**  
-*Intel CAFE & Rajan Group, The Ohio State University | May 2025 – Jul 2025*  
-- Modeled and simulated quantum tunneling currents for semiconductor device stacks in Python (NumPy, SciPy, Pandas); generalized models for arbitrary stacks.  
-- Built lab’s first photodetector bandwidth measurement system to inform faster optical communication device design.  
-- Conducted market research on solar-blind photodetectors to evaluate commercial and engineering potential.  
-
-**Data Analytics & Strategic Insights Intern**  
-*Office for Advancement and Admissions, The College of Wooster | Mar 2025 – Jul 2025*  
-- Automated alumni data processing into a unified scoring model for CRM system, reducing workflow time from 4 days to minutes.  
-- Analyzed 95,000 admissions inquiries to identify demographic trends; documented findings and informed outreach strategy adjustments.  
-
----
-
 ## Projects
 
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
@@ -37,8 +21,21 @@ Welcome! This repository highlights my projects in computational modeling, quant
 - Developed a **Streamlit interface** for interactive variable control and time-step adjustment.  
 - [PDF Report]((https://github.com/Nemonyte04/navier-stokes-namit/blob/main/Report___Computational_Fluid_Dynamics%20(1).pdf))  
 
+
 ---
 
+## Experience
 
+**Computational Modeling & Semiconductor Engineering Research Assistant**  
+*Intel CAFE & Rajan Group, The Ohio State University | May 2025 – Jul 2025*  
+- Modeled and simulated quantum tunneling currents for semiconductor device stacks in Python (NumPy, SciPy, Pandas); generalized models for arbitrary stacks.  
+- Built lab’s first photodetector bandwidth measurement system to inform faster optical communication device design.  
+- Conducted market research on solar-blind photodetectors to evaluate commercial and engineering potential.  
 
+**Data Analytics & Strategic Insights Intern**  
+*Office for Advancement and Admissions, The College of Wooster | Mar 2025 – Jul 2025*  
+- Automated alumni data processing into a unified scoring model for CRM system, reducing workflow time from 4 days to minutes.  
+- Analyzed 95,000 admissions inquiries to identify demographic trends; documented findings and informed outreach strategy adjustments.  
+
+---
 
