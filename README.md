@@ -24,8 +24,8 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ### [Junior Year Research Project: Analyzing the Aerodynamics of Paper Planes]([https://github.com/Nemonyte04/vix-futures-term_structure-analysis](https://github.com/Nemonyte04/analyzing-paper-plans/blob/main/Junior_IS___Self_design___final_final%20(1).pdf))
 *Oct 2024 – Dec 2025*  
 - Solved a cross-disciplinary problem at the intersection of physics and data analytics by transforming high-speed video data into structured datasets and estimating aerodynamic coefficients using statistical and physics-based models.
--Performed exploratory data analysis and statistical comparison across multiple trials and designs, quantifying uncertainty and identifying performance drivers through coefficient estimation, ratio analysis, and visualization.
-- [PDF Report]([https://github.com/Nemonyte04/vix-futures-term_structure-analysis/blob/main/Report-Analyzing_Historical_Volatility_Term_Structure_for_Forecasting_VIX_Futures.pdf](https://github.com/Nemonyte04/analyzing-paper-plans/blob/main/Junior_IS___Self_design___final_final%20(1).pdf))
+- Performed exploratory data analysis and statistical comparison across multiple trials and designs, quantifying uncertainty and identifying performance drivers through coefficient estimation, ratio analysis, and visualization.
+- [PDF Report](https://github.com/Nemonyte04/analyzing-paper-plans/blob/main/Junior_IS___Self_design___final_final%20(1).pdf)
 
 ---
 
