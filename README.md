@@ -10,6 +10,7 @@ Welcome! This repository highlights my projects in computational modeling, quant
 - Made my own neural network using pure python and numpy during my thanksgiving break train ride.
 - Cross-entropy loss & hybrid optimizer (Adam w/ SGD). Tested on MNIST (~97% accuracy) and EMNIST (~89% accuracy)
 
+
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
 - Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original 2004–2015 period), and evaluated its behavior in recent market conditions.
@@ -17,7 +18,6 @@ Welcome! This repository highlights my projects in computational modeling, quant
 - [PDF Report](https://github.com/Nemonyte04/vix-futures-term_structure-analysis/blob/main/Report-Analyzing_Historical_Volatility_Term_Structure_for_Forecasting_VIX_Futures.pdf)
 
 
----
 
 ### [Junior Year Research Project: Analyzing the Aerodynamics of Paper Planes](https://github.com/Nemonyte04/analyzing-paper-plans/blob/main/Junior_IS___Self_design___final_final%20(1).pdf)
 *Oct 2024 – Dec 2025*  
@@ -25,7 +25,7 @@ Welcome! This repository highlights my projects in computational modeling, quant
 - Performed exploratory data analysis and statistical comparison across multiple trials and designs, quantifying uncertainty and identifying performance drivers through coefficient estimation, ratio analysis, and visualization.
 - [PDF Report](https://github.com/Nemonyte04/analyzing-paper-plans/blob/main/Junior_IS___Self_design___final_final%20(1).pdf)
 
----
+
 
 ### [2D Fluid Flow Simulation – Computational Fluid Dynamics Project](https://navier-stokes-namit.streamlit.app/)  
 *Apr 2023 – Jun 2023*  
