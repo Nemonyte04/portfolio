@@ -6,6 +6,10 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ---
 ## Projects
 
+### [Neural network from scratch in Python (using numpy)](https://github.com/Nemonyte04/neu-net)
+- Made my own neural network using pure python and numpy during my thanksgiving break train ride.
+- Cross-entropy loss & hybrid optimizer (Adam w/ SGD). Tested on MNIST (~97% accuracy) and EMNIST (~89% accuracy)
+
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
 - Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original 2004–2015 period), and evaluated its behavior in recent market conditions.
